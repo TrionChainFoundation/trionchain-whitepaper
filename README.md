@@ -1,2 +1,3 @@
-# trionchain-whitepaper
-Official Whitepaper repository of the TrionChain FEM-based blockchain.
+## 📄 Whitepaper
+The full technical whitepaper is available at:
+👉 /docs/whitepaper.md
