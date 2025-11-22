@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/TrionChainFoundation/trionchain-lightpaper/blob/main/assets/header.png?raw=true" width="100%" alt="TrionChain Header" />
-</p>
-
 # 📘 TrionChain — Technical Whitepaper  
 ### **Version 1.0 – 2025**  
 **TrionChain Foundation**
@@ -68,7 +64,6 @@ TrionChain introduces:
 ---
 
 ## 📄 Lightpaper (Investor Edition)
-
 A high-level version of the protocol is available here:  
 👉 https://github.com/TrionChainFoundation/trionchain-lightpaper
 
