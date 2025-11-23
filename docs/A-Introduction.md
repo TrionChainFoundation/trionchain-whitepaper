@@ -142,7 +142,7 @@ This makes TrionChain inherently suitable for **real-world systems**, which are 
 
 ---
 
-## A.8. Recommended Diagrams (to be added under `/diagrams/`)
+## A.8. Recommended Diagrams
 
 1. **FEM → Blockchain Mapping**  
    Domain → Cells → Nodes → Assembly.
