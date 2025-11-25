@@ -8,7 +8,7 @@
 
 **TrionChain is the first FEM-based Layer-1 blockchain**, designed to model global economic and physical systems using a computational mesh inspired by the **Finite Element Method (FEM)**.
 
-Each region of the world becomes a **TrionCell**—a localized computational domain with its own state, security, and interactions. This architecture enables:
+Each region of the world becomes a **TrionCell** a localized computational domain with its own state, security, and interactions. This architecture enables:
 
 - Deterministic local computation  
 - Scalable multi-domain consensus  
