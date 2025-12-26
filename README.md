@@ -89,6 +89,19 @@ TrionChain is asset-agnostic. Its mesh architecture can model any physical syste
 
 ---
 
+## 🔐 Intellectual Property Record
+
+The conceptual architecture, FEM-consensus logic, and "TrionCell" methodology described in this whitepaper have been cryptographically timestamped on the Bitcoin Blockchain to establish priority of invention.
+
+*   **Network:** Bitcoin (Mainnet)
+*   **Transaction Hash (TxID):** `0cc839da0b99889fdd3924555e36ec21cb91d8d8cab04a6993779469123909d4`
+*   **Block Height:** #923,515
+*   **Timestamp Date:** November 14, 2025 (UTC)
+
+*This timestamp serves as immutable proof of existence for the TrionChain protocol architecture.*
+
+---
+
 ## 🏛️ TrionChain Foundation
 *   **Repository:** [github.com/TrionChainFoundation/trionchain-protocol](https://github.com/TrionChainFoundation/trionchain-protocol)
 *   **Website:** [trionchain.org](https://trionchain.org)
